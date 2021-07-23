@@ -33,14 +33,16 @@ A list of my accomplishments thus far.
 ## 2020
 - [Creating PostgreSQL Databases](Creating_PostgreSQL_Databases.pdf)
 - [Data Engineering for Everyone](Data_Engineering_for_Everyone.pdf)
-- [Data Processing in Shell](Data_Processing_in_Shell.pdf)
 - [Image Processing in Python](Image_Processing_in_Python.pdf)
 - [Introduction to Data Engineering](Introduction_to_Data_Engineering.pdf)
 
 ## 2021
+- [Data Processing in Shell](Data_Processing_in_Shell.pdf)
 - [Introduction to Airflow in Python](Introduction_to_Airflow_in_Python.pdf)
 - [Introduction to AWS Boto in Python](Introduction_to_AWS_Boto_in_Python.pdf)
+- [Introduction to Bash Scripting](Introduction_to_Bash_Scripting.pdf)
 - [Introduction to PySpark](Introduction_to_PySpark.pdf)
+- [Introduction to Shell](Introduction_to_Shell.pdf)
 - [Linear Classifiers in Python](Linear_Classiers_in_Python.pdf)
 - [Machine Learning for Everyone](Machine_Learning_for_Everyone.pdf)
 - [Machine Learning with Tree-Based Model in Python](Machine_Learning_with_Tree-Based_Model_in_Python.pdf)
