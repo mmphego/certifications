@@ -55,7 +55,7 @@ A list of my accomplishments thus far.
 ## 2019
 - [Data Analysis with Python](Data_Analysis_with_Python.pdf)
 - [Data Visualization with Python](Data_Visualization_with_Python.pdf)
-- [Python 101 for Data_Science](Python_101_for_Data_Science.pdf)
+- [Python 101 for Data Science](Python_101_for_Data_Science.pdf)
 
 ## 2020
 - [Deep Learning Fundamentals](Deep_Learning_Fundamentals.pdf)
