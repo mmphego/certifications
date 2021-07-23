@@ -8,7 +8,7 @@ A list of my accomplishments thus far.
 # Coursera
 
 ## 2020
-- [AI For Everyone]("AI For Everyone.pdf")
+- [AI For Everyone](./AI_For_Everyone.pdf")
 
 # DataCamp
 
