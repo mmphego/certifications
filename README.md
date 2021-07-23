@@ -63,7 +63,7 @@ A list of my accomplishments thus far.
 
 # [Microsoft](https://microsoft.com)
 ## 2021
-- [Microsoft Certified: Azure Data Scientist Associate.pdf](Microsoft_Certified_Azure_Data_Scientist_Associate.pdf.pdf)
+- [Microsoft Certified: Azure Data Scientist Associate.pdf](Microsoft_Certified_Azure_Data_Scientist_Associate.pdf)
 
 # [Udacity](https://udacity.com)
 ## 2019
