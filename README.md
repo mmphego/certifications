@@ -4,7 +4,7 @@ A list of my accomplishments thus far.
 
 # [CloudAcademy](https://cloudacademy.com)
 ## 2021
-- [DP-100 Exam Prep Designing and Implementing a Data Science Solution on Azure](DP-100_Exam_Prep_Designing_and_Implementing_a_Data_Science_Solution_on_Azure.pdf)
+- [DP-100 Exam Prep: Designing and Implementing a Data Science Solution on Azure](DP-100_Exam_Prep_Designing_and_Implementing_a_Data_Science_Solution_on_Azure.pdf)
 - [Getting Started With NGINX](Getting_Started_With_NGINX.pdf)
 - [Introduction to Ansible](Introduction_to_Ansible.pdf)
 - [Introduction to Azure Machine Learning](Introduction_to_Azure_Machine_Learning.pdf)
@@ -61,7 +61,7 @@ A list of my accomplishments thus far.
 
 # [Microsoft](https://microsoft.com)
 ## 2021
-- [Microsoft Certified Azure Data Scientist Associate.pdf](Microsoft_Certified_Azure_Data_Scientist_Associate.pdf.pdf)
+- [Microsoft Certified: Azure Data Scientist Associate.pdf](Microsoft_Certified_Azure_Data_Scientist_Associate.pdf.pdf)
 
 # [Udacity](https://udacity.com)
 ## 2019
