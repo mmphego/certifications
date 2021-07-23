@@ -2,14 +2,14 @@
 
 A list of my accomplishments thus far.
 
-# [CloudAcademy](cloudacademy.com)
+# [CloudAcademy](https://cloudacademy.com)
 ## 2021
 - [DP-100_Exam_Prep_Designing_and_Implementing_a_Data_Science_Solution_on_Azure](DP-100_Exam_Prep_Designing_and_Implementing_a_Data_Science_Solution_on_Azure.pdf)
 - [Getting_Started_With_NGINX](Getting_Started_With_NGINX.pdf)
 - [Introduction_to_Ansible](Introduction_to_Ansible.pdf)
 - [Introduction_to_Azure_Machine_Learning](Introduction_to_Azure_Machine_Learning.pdf)
 
-# [Coursera](coursera.com)
+# [Coursera](https://coursera.com)
 ## 2014
 - [An_Introduction_to_Interactive_Python](An_Introduction_to_Interactive_Python.pdf)
 - [Programming_for_Everybody](Programming_for_Everybody.pdf)
@@ -29,7 +29,7 @@ A list of my accomplishments thus far.
 - [Structuring_Machine_Learning_Projects](Structuring_Machine_Learning_Projects.pdf)
 - [Supervised_Machine_Learning_Regression](Supervised_Machine_Learning_Regression.pdf)
 
-# [DataCamp](datacamp.com)
+# [DataCamp](https://datacamp.com)
 ## 2020
 - [Creating_PostgreSQL_Databases](Creating_PostgreSQL_Databases.pdf)
 - [Data_Engineering_for_Everyone](Data_Engineering_for_Everyone.pdf)
@@ -49,7 +49,7 @@ A list of my accomplishments thus far.
 - [Supervised_Learning_with_scikit-learn](Supervised_Learning_with_scikit-learn.pdf)
 - [Unsupervised_Learning_in_Python](Unsupervised_Learning_in_Python.pdf)
 
-# [IBM/Cognitive.ai](cognitiveclass.ai)
+# [IBM/Cognitive.ai](https://cognitiveclass.ai)
 ## 2019
 - [Data_Analysis_with_Python](Data_Analysis_with_Python.pdf)
 - [Data_Visualization_with_Python](Data_Visualization_with_Python.pdf)
@@ -59,11 +59,11 @@ A list of my accomplishments thus far.
 - [Deep_Learning_Fundamentals](Deep_Learning_Fundamentals.pdf)
 - [Docker_Essentials_A_Developer_Introduction](Docker_Essentials_A_Developer_Introduction.pdf)
 
-# [Microsoft](microsoft.com)
+# [Microsoft](https://microsoft.com)
 ## 2021
 - [Microsoft_Certified_Azure_Data_Scientist_Associate.pdf](Microsoft_Certified_Azure_Data_Scientist_Associate.pdf.pdf)
 
-# [Udacity](udacity.com)
+# [Udacity](https://udacity.com)
 ## 2019
 - [AI_Programming_with_Python](AI_Programming_with_Python.pdf)
 
