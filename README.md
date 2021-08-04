@@ -37,6 +37,7 @@ A list of my accomplishments thus far.
 - [Introduction to Data Engineering](Introduction_to_Data_Engineering.pdf)
 
 ## 2021
+- [Building Data Engineering Pipelines in Python](Building-Data-Engineering-Pipelines-in-Python.pdf)
 - [Data Processing in Shell](Data_Processing_in_Shell.pdf)
 - [Introduction to Airflow in Python](Introduction_to_Airflow_in_Python.pdf)
 - [Introduction to AWS Boto in Python](Introduction_to_AWS_Boto_in_Python.pdf)
