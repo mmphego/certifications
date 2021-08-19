@@ -2,14 +2,14 @@
 
 A list of my accomplishments thus far.
 
-# [AWS](https://aws.amazon.com/)
+## [AWS](https://aws.amazon.com/)
 
-## 2021
+### 2021
 - Loading...
 
 
-# [CloudAcademy](https://cloudacademy.com)
-## 2021
+## [CloudAcademy](https://cloudacademy.com)
+### 2021
 - [DP-100 Exam Prep: Designing and Implementing a Data Science Solution on Azure](DP-100_Exam_Prep_Designing_and_Implementing_a_Data_Science_Solution_on_Azure.pdf)
 - [Getting Started With NGINX](Getting_Started_With_NGINX.pdf)
 - [Introduction to Ansible](Introduction_to_Ansible.pdf)
@@ -17,15 +17,15 @@ A list of my accomplishments thus far.
 
 ---
 
-# [Coursera](https://coursera.com)
-## 2014
+## [Coursera](https://coursera.com)
+### 2014
 - [Introduction to Interactive Python](An_Introduction_to_Interactive_Python.pdf)
 - [Programming for Everybody](Programming_for_Everybody.pdf)
 
-## 2019
+### 2019
 - [AI For Everyone](AI_For_Everyone.pdf)
 
-## 2020
+### 2020
 - [Computer Vision Basics](Computer_Vision_Basics.pdf)
 - [Convolutional Neural Networks](Convolutional_Neural_Networks.pdf)
 - [Deep Learning](Deep_Learning.pdf)
@@ -39,14 +39,14 @@ A list of my accomplishments thus far.
 
 ---
 
-# [DataCamp](https://datacamp.com)
-## 2020
+## [DataCamp](https://datacamp.com)
+### 2020
 - [Creating PostgreSQL Databases](Creating_PostgreSQL_Databases.pdf)
 - [Data Engineering for Everyone](Data_Engineering_for_Everyone.pdf)
 - [Image Processing in Python](Image_Processing_in_Python.pdf)
 - [Introduction to Data Engineering](Introduction_to_Data_Engineering.pdf)
 
-## 2021
+### 2021
 - [Building Data Engineering Pipelines in Python](Building-Data-Engineering-Pipelines-in-Python.pdf)
 - [Data Processing in Shell](Data_Processing_in_Shell.pdf)
 - [Introduction to Airflow in Python](Introduction_to_Airflow_in_Python.pdf)
@@ -65,29 +65,35 @@ A list of my accomplishments thus far.
 
 ---
 
-# [IBM/Cognitive.ai](https://cognitiveclass.ai)
-## 2019
+## [IBM/Cognitive.ai](https://cognitiveclass.ai)
+### 2019
 - [Data Analysis with Python](Data_Analysis_with_Python.pdf)
 - [Data Visualization with Python](Data_Visualization_with_Python.pdf)
 - [Python 101 for Data Science](Python_101_for_Data_Science.pdf)
 
-## 2020
+### 2020
 - [Deep Learning Fundamentals](Deep_Learning_Fundamentals.pdf)
 - [Docker Essentials A Developer Introduction](Docker_Essentials_A_Developer_Introduction.pdf)
 
 ---
 
-# [Microsoft](https://microsoft.com)
-## 2021
+## [Microsoft](https://microsoft.com)
+### 2021
 - [Microsoft Certified: Azure Data Scientist Associate](Microsoft_Certified_Azure_Data_Scientist_Associate.pdf)
 
 ---
 
-# [Udacity](https://udacity.com)
-## 2019
+## [Udacity](https://udacity.com)
+### 2019
 - [AI Programming with Python](AI_Programming_with_Python.pdf)
 
-## 2020
+### 2020
 - [Cloud Developer](Cloud_Developer.pdf)
 - [Intel Edge AI for IoT Developers Nanodegree](Intel_Edge_AI_for_IoT_Developers_Nanodegree.pdf)
 - [Udacity Mentorship](Udacity_Mentorship.pdf)
+
+---
+
+# Online Profiles
+
+- [Pluralsight](https://app.pluralsight.com/profile/mmphego)
