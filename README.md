@@ -77,6 +77,13 @@ A list of my accomplishments thus far.
 
 ---
 
+## [Mellanox (NVIDIA)](https://academy.mellanox.com/en/)
+
+### 2017
+- [Mellanox Network Professional Engineer](Mellanox-Network-Professional-Certificate.pdf)
+
+---
+
 ## [Microsoft](https://microsoft.com)
 ### 2021
 - [Microsoft Certified: Azure Data Scientist Associate](Microsoft_Certified_Azure_Data_Scientist_Associate.pdf)
