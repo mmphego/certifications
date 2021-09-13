@@ -14,6 +14,8 @@ A list of my accomplishments thus far.
 - [Getting Started With NGINX](Getting_Started_With_NGINX.pdf)
 - [Introduction to Ansible](Introduction_to_Ansible.pdf)
 - [Introduction to Azure Machine Learning](Introduction_to_Azure_Machine_Learning.pdf)
+- [Combining DevOps Tools at Scale-Jenkins, SonarQube, Artifactory, Splunk and Jira](Combining-DevOps-Tools-at-Scale-Jenkins-SonarQube-Artifactory-Splunk-and-Jira.pdf)
+
 
 ---
 
@@ -103,4 +105,5 @@ A list of my accomplishments thus far.
 
 # Online Profiles
 
+- [Hackerrank](https://www.hackerrank.com/mmphego)
 - [Pluralsight](https://app.pluralsight.com/profile/mmphego)
