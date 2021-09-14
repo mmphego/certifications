@@ -15,7 +15,7 @@ A list of my accomplishments thus far.
 - [Introduction to Ansible](Introduction_to_Ansible.pdf)
 - [Introduction to Azure Machine Learning](Introduction_to_Azure_Machine_Learning.pdf)
 - [Combining DevOps Tools at Scale-Jenkins, SonarQube, Artifactory, Splunk and Jira](Combining-DevOps-Tools-at-Scale-Jenkins-SonarQube-Artifactory-Splunk-and-Jira.pdf)
-
+- [Fundamentals of AWS](Fundamentals-of-AWS.pdf)
 
 ---
 
