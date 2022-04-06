@@ -113,15 +113,19 @@ A list of my accomplishments thus far.
 
 ## [Udacity](https://udacity.com)
 
-### 2019
+### 2022
 
-- [AI Programming with Python](AI_Programming_with_Python.pdf)
+- [Digital Marketing](Digital_Marketing.pdf)
 
 ### 2020
 
 - [Cloud Developer](Cloud_Developer.pdf)
 - [Intel Edge AI for IoT Developers Nanodegree](Intel_Edge_AI_for_IoT_Developers_Nanodegree.pdf)
 - [Udacity Mentorship](Udacity_Mentorship.pdf)
+
+### 2019
+
+- [AI Programming with Python](AI_Programming_with_Python.pdf)
 
 ---
 
