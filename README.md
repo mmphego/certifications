@@ -4,9 +4,9 @@ A list of my accomplishments thus far.
 
 ## [AWS](https://aws.amazon.com/)
 
-### 2021
+### 2022
 
-- Loading...
+- [Demystifying AI/ML/DL](AWS_Demistifying_AI_ML_DL.pdf)
 
 ## [CloudAcademy](https://cloudacademy.com)
 
@@ -116,6 +116,7 @@ A list of my accomplishments thus far.
 ### 2022
 
 - [Digital Marketing](Digital_Marketing.pdf)
+- [Connect Mentorship](Udacity_Connect_Mentorship.pdf)
 
 ### 2020
 
