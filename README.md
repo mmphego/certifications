@@ -27,15 +27,6 @@ A list of my accomplishments thus far.
 
 ## [Coursera](https://coursera.com)
 
-### 2014
-
-- [Introduction to Interactive Python](An_Introduction_to_Interactive_Python.pdf)
-- [Programming for Everybody](Programming_for_Everybody.pdf)
-
-### 2019
-
-- [AI For Everyone](AI_For_Everyone.pdf)
-
 ### 2020
 
 - [Computer Vision Basics](Computer_Vision_Basics.pdf)
@@ -49,16 +40,22 @@ A list of my accomplishments thus far.
 - [Structuring Machine Learning Projects](Structuring_Machine_Learning_Projects.pdf)
 - [Supervised Machine Learning Regression](Supervised_Machine_Learning_Regression.pdf)
 
+### 2019
+
+- [AI For Everyone](AI_For_Everyone.pdf)
+
+### 2014
+
+- [Introduction to Interactive Python](An_Introduction_to_Interactive_Python.pdf)
+- [Programming for Everybody](Programming_for_Everybody.pdf)
+
 ---
 
 ## [DataCamp](https://datacamp.com)
 
-### 2020
+### 2022
 
-- [Creating PostgreSQL Databases](Creating_PostgreSQL_Databases.pdf)
-- [Data Engineering for Everyone](Data_Engineering_for_Everyone.pdf)
-- [Image Processing in Python](Image_Processing_in_Python.pdf)
-- [Introduction to Data Engineering](Introduction_to_Data_Engineering.pdf)
+- [Introduction to MongoDB in Python](Introduction_to_MongoDB_in_Python.pdf)
 
 ### 2021
 
@@ -78,20 +75,27 @@ A list of my accomplishments thus far.
 - [Supervised Learning with scikit-learn](Supervised_Learning_with_scikit-learn.pdf)
 - [Unsupervised Learning in Python](Unsupervised_Learning_in_Python.pdf)
 
+### 2020
+
+- [Creating PostgreSQL Databases](Creating_PostgreSQL_Databases.pdf)
+- [Data Engineering for Everyone](Data_Engineering_for_Everyone.pdf)
+- [Image Processing in Python](Image_Processing_in_Python.pdf)
+- [Introduction to Data Engineering](Introduction_to_Data_Engineering.pdf)
+
 ---
 
 ## [IBM/Cognitive.ai](https://cognitiveclass.ai)
+
+### 2020
+
+- [Deep Learning Fundamentals](Deep_Learning_Fundamentals.pdf)
+- [Docker Essentials A Developer Introduction](Docker_Essentials_A_Developer_Introduction.pdf)
 
 ### 2019
 
 - [Data Analysis with Python](Data_Analysis_with_Python.pdf)
 - [Data Visualization with Python](Data_Visualization_with_Python.pdf)
 - [Python 101 for Data Science](Python_101_for_Data_Science.pdf)
-
-### 2020
-
-- [Deep Learning Fundamentals](Deep_Learning_Fundamentals.pdf)
-- [Docker Essentials A Developer Introduction](Docker_Essentials_A_Developer_Introduction.pdf)
 
 ---
 
