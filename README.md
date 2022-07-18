@@ -140,3 +140,5 @@ A list of my accomplishments thus far.
 
 - [Hackerrank](https://www.hackerrank.com/mmphego)
 - [Pluralsight](https://app.pluralsight.com/profile/mmphego)
+- [Microsoft Learn](https://docs.microsoft.com/en-gb/users/mmphego/)
+- [Credly](https://www.credly.com/users/mmphego)
