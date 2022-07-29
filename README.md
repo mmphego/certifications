@@ -57,6 +57,7 @@ A list of my accomplishments thus far.
 
 ### 2022
 
+- [Database Design](Database_Design.pdf)
 - [Introduction to MongoDB in Python](Introduction_to_MongoDB_in_Python.pdf)
 - [Introduction to Relational Databases in SQL](Introduction_to_Relational_Databases_in_SQL.pdf)
 
