@@ -12,6 +12,7 @@ A list of my accomplishments thus far.
 
 ### 2022
 
+- [Start Modelling Data with Amazon SageMaker](Start-Modelling-Data-with-Amazon-SageMaker.pdf)
 - [The Infrastructure Developer's Guide to Terraform: AWS Edition](Infrastructure_Developer_Guide_to_Terraform_AWS_Edition.pdf)
 - [Introduction to Kubernetes](intro_to_kubernetes.pdf)
 
