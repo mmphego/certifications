@@ -6,6 +6,7 @@ A list of my accomplishments thus far.
 
 ### 2022
 
+- [Cloud Practitioner](AWS_Certified_Cloud_Practitioner_certificate.pdf)
 - [Demystifying AI/ML/DL](AWS_Demistifying_AI_ML_DL.pdf)
 
 ## [CloudAcademy](https://cloudacademy.com)
