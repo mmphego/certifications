@@ -59,6 +59,7 @@ A list of my accomplishments thus far.
 
 ### 2022
 
+- [Big Data Fundamentals with PySpark](Big-Data-Fundamentals-with-PySpark.pdf)
 - [Introduction to Scala](Introduction-to-Scala.pdf)
 - [Database Design](Database_Design.pdf)
 - [Introduction to MongoDB in Python](Introduction_to_MongoDB_in_Python.pdf)
