@@ -59,6 +59,8 @@ A list of my accomplishments thus far.
 
 ### 2022
 
+- [Data Engineer with Python](Data-Engineer-with-Python.pdf)
+- [Cleaning Data with PySpark](Cleaning-Data-with-PySpark.pdf)
 - [Big Data Fundamentals with PySpark](Big-Data-Fundamentals-with-PySpark.pdf)
 - [Introduction to Scala](Introduction-to-Scala.pdf)
 - [Database Design](Database_Design.pdf)
