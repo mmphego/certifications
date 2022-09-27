@@ -6,13 +6,14 @@ A list of my accomplishments thus far.
 
 ### 2022
 
-- [Cloud Practitioner](AWS_Certified_Cloud_Practitioner_certificate.pdf)
+- [AWS Cloud Practitioner (CLF-C01)](AWS_Certified_Cloud_Practitioner_certificate.pdf)
 - [Demystifying AI/ML/DL](AWS_Demistifying_AI_ML_DL.pdf)
 
 ## [CloudAcademy](https://cloudacademy.com)
 
 ### 2022
 
+- [AWS Cloud Practitioner (CLF-C01) Certification Preparation for AWS](AWS-Cloud-Practitioner-Certification-Preparation-for-AWS.pdf)
 - [Terraform Associate Certication Exam Preparation](Terraform-Associate-Certication-Exam-Preparation.pdf)
 - [Start Modelling Data with Amazon SageMaker](Start-Modelling-Data-with-Amazon-SageMaker.pdf)
 - [The Infrastructure Developer's Guide to Terraform: AWS Edition](Infrastructure_Developer_Guide_to_Terraform_AWS_Edition.pdf)
