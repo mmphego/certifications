@@ -110,6 +110,12 @@ A list of my accomplishments thus far.
 
 ---
 
+## [Kubicle](https://kubicle.com)
+
+### 2022
+
+- [Understanding SQL Databases](Understanding-SQL-Databases.pdf)
+
 ## [Mellanox (NVIDIA)](https://academy.mellanox.com/en/)
 
 ### 2017
