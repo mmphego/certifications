@@ -13,6 +13,7 @@ A list of my accomplishments thus far.
 
 ### 2022
 
+- [Analyzing your data with Amazon Redshift](Analyzing-your-data-with-Amazon-Redshift.pdf)
 - [AWS Cloud Practitioner (CLF-C01) Certification Preparation for AWS](AWS-Cloud-Practitioner-Certification-Preparation-for-AWS.pdf)
 - [Terraform Associate Certication Exam Preparation](Terraform-Associate-Certication-Exam-Preparation.pdf)
 - [Start Modelling Data with Amazon SageMaker](Start-Modelling-Data-with-Amazon-SageMaker.pdf)
