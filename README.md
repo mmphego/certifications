@@ -151,6 +151,11 @@ A list of my accomplishments thus far.
 
 - [AI Programming with Python](AI_Programming_with_Python.pdf)
 
+## [Udemy](https://udemy.com)
+
+### 2022
+
+- [Data Warehouse - The Ultimate Guide](Data_Warehouse_The_Ultimate_Guide.pdf)
 ---
 
 # Online Profiles
