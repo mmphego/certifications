@@ -136,6 +136,10 @@ A list of my accomplishments thus far.
 
 ## [Udacity](https://udacity.com)
 
+### 2023
+
+- [Data Engineering with AWS](Data_Engineering_with_AWS.pdf)
+
 ### 2022
 
 - [Digital Marketing](Digital_Marketing.pdf)
