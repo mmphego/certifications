@@ -139,7 +139,7 @@ A list of my accomplishments thus far.
 ### 2023
 
 - [Data Engineering with AWS](Data_Engineering_with_AWS.pdf)
-- [AWS Cloud Developer for Philips](AWS_Cloud_Developer_for_Philips.pdf)
+- [AWS Cloud Developer for Philips](AWS_Cloud_Developer_For_Phillips.pdf)
 
 ### 2022
 
