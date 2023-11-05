@@ -158,6 +158,10 @@ A list of my accomplishments thus far.
 
 ## [Udemy](https://udemy.com)
 
+### 2023
+
+- [Ultimate AWS Certified Solutions Architect Associate SAA-C03](Ultimate_AWS_Certified_Solutions_Architect_Associate_SAA-C03.pdf)
+
 ### 2022
 
 - [Data Warehouse - The Ultimate Guide](Data_Warehouse_The_Ultimate_Guide.pdf)
