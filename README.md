@@ -4,6 +4,10 @@ A list of my accomplishments thus far.
 
 ## [AWS](https://aws.amazon.com/)
 
+### 2023
+
+- [AWS Certified Solutions Architect - Associate certificate](AWS_Certified_Solutions_Architect-Associate_certificate.pdf)
+
 ### 2022
 
 - [Architecting on AWS](Architecting-on-AWS.pdf)
